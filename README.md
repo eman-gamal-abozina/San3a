@@ -1,80 +1,67 @@
-README
-📊 SnipeCharts | سنايب تشارتس
-Awareness project about smart and data-driven trading for aspiring traders using visual communication and digital marketing.
 
-💡 Project Idea
-SnipeCharts is an academic awareness project that aims to simplify and clarify the world of trading and investing for beginners.
-The project highlights the common struggles new traders face conflicting analyses, unreliable tools, and emotional decision-making and presents a new, data-driven perspective through the SnipeCharts ecosystem.
+ San3a | صنعة
+quickly find skilled and trusted craftsmen 
 
-The project focuses on creating a comprehensive awareness and educational campaign that includes:
+Project Idea:
+Our application helps users quickly find skilled and trusted craftsmen such as plumbers, carpenters, and painters.
+It provides fast access, clear details, and reliable ratings so users can choose the right professional with confidence.
 
-Building a strong brand identity (logo, colors, tone, and visual style).
-Producing visual content for social media (posts, carousels, videos, storytelling campaigns).
-Creating a free practical trading course to help traders analyze the market using real data and volume, not guesswork.
-Presenting the SnipeCharts Indicator, a free analytical tool that simplifies chart reading and helps users make data-based decisions.
-Building an active community for traders to share experiences, discuss analyses, and learn together in a transparent environment.
-This project transforms complex financial and analytical concepts into engaging, accessible visuals and narratives — empowering beginners to trade with confidence and awareness.
+Team Members:
+Eman Gamal– Team Leader 
+Role : User interview , User persona , Ui design
 
-👥 Team Members (Snipers)
-Mohamed Anwar – Team Leader & Founder
-Primary: Team coordination, marketing strategy, project direction, content planning, and GitHub.
-Secondary: Branding guidance, copywriting, presentation.
+Salwa Mohamed Hassan
+Role : competitors analysis , user survey , Ui design
 
-Abdullah Mostafa – Social Media Manager
-Primary: Campaign management, social media strategy, and scheduling.
-Secondary: Analytics, content optimization, engagement tracking.
+Rodina Mohamed AbdElrahman
+Role : visual design , competitors ui analysis
 
-Mohamed Gamal – Video Editor
-Primary: Video production, reels editing, and motion storytelling.
-Secondary: Visual adaptation for ads and campaigns.
+Nada Mohamed Gaber
+Role : empathy map  , presentation ,
 
-Rolan Sameh – Designer
-Primary: Visual design, brand identity, and creative layouts.
-Secondary: UI/UX refinement, social media visuals.
+Omar khaled Ramadan
+Role : user interview , logo design , design system
 
-Sondos Mahmoud – Content Writer
-Primary: Scriptwriting, post copywriting, and storytelling.
-Secondary: Research and blog-style content.
 
-Mohamed Farouk – Marketing Assistant
-Primary: Marketing coordination, support in design and content creation.
-Secondary: Campaign performance tracking.
+Project Plan :
+1. User Research
+ Interviews
+ competitor analysis
+ identifying user pain points
 
-🗂️ Work Plan
-1. Research & Analysis
-Market and competitor research (trading tools, learning platforms).
-Target audience personas (beginner and intermediate traders).
-Pain points and behavior analysis.
-Moodboard and creative direction.
-2. Brand Identity
-Logo design and brand naming.
-Color palette and typography.
-Tone of voice and visual guidelines.
-3. Awareness Content
-Social media posts and carousels.
-Explainer and storytelling videos.
-Paid campaign visuals.
-Educational mini-series for awareness.
-4. Educational Components
-Free course on trading basics and market analysis.
-Data-driven indicator explanation and demo visuals.
-Short “How-To” videos for practical learning.
-5. Community Building
-Telegram/Discord trader community.
-Discussion topics, mentorship, and feedback sessions.
-Real user insights and success stories.
-6. Review & Finalization
-Internal review and refinements.
-Export and presentation setup.
-GitHub documentation and portfolio upload.
-👨‍🏫 Instructor
-Eng. Safyeldin
+3. Define & Understand
+ Problem statement
+ personas
+ empathy map
+ key user needs.
 
-📂 Project Files
-Access all project files here:
-🔗 Google Drive Folder
+4. Information Architecture
+ User flow
+ Structuring app screens
 
-⚖️ License
-All rights reserved © 2025 Mohamed Anwar | SnipeCharts
+5.Mid-fidelity wireframes
+
+6.Design System
+ Colors
+ typography
+ components
+ Logo
+ 
+7.Final Ui
+
+8. Prototype & Testing
+ Interactive prototype
+ usability testing
+ final improvements.
+
+9.Prepare presentation + documentation for the project
+
+Instructor : Yasmin Ali
+
+You can find our project (San3a) in figma here
+https://www.figma.com/proto/i9jbroaO9r5BflGozAUN0Z/Dentistella?page-id=0%3A1&node-id=185-495&t=b3MgrpORNnRxkEmV-0&scaling=scale-down-width&content-scaling=fixed
+
+License
+All rights reserved © 2025 Ala Allah Team | San3a
 
 
