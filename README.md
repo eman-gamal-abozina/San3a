@@ -11,6 +11,8 @@ Nada Mohamed Gaber
 visual designer
 Omar Khaled Ramadan
 Graphic designer , ux researcher
+
+
 ا1. Storyboard:
 حنفية العميل اتكسرت فجأة، والمية مليّت الأرض.
 بدأ يسأل صحابه والجيران عن سبّاك — كل واحد رشّح حد مختلف، وفي ناس قالت إن الحرفيين بيتأخروا أو بيغيبوا.
