@@ -6,9 +6,13 @@ Project Idea:
 Our application helps users quickly find skilled and trusted craftsmen such as plumbers, carpenters, and painters.
 It provides fast access, clear details, and reliable ratings so users can choose the right professional with confidence.
 
+
 Team Members:
-Eman Gamal– Team Leader 
+Eman Gamal– Team Leader
+
+
 Role : User interview , User persona , Ui design
+
 
 Salwa Mohamed Hassan
 Role : competitors analysis , user survey , Ui design
