@@ -1,61 +1,80 @@
-                                                                                                                                                                                                        san3a | صنعة
+README
+📊 SnipeCharts | سنايب تشارتس
+Awareness project about smart and data-driven trading for aspiring traders using visual communication and digital marketing.
 
-👥 Team Members 
-Eman Gamal Abozina
-ux interviewr , visual designer , team leader
-Salwa Mohamed Hassan
-ux research , competitors analyst 
-Rodina Mohamed AbdElrahman
-visual design , ui design 
-Nada Mohamed Gaber 
-visual designer
-Omar Khaled Ramadan
-Graphic designer , ux researcher
+💡 Project Idea
+SnipeCharts is an academic awareness project that aims to simplify and clarify the world of trading and investing for beginners.
+The project highlights the common struggles new traders face conflicting analyses, unreliable tools, and emotional decision-making and presents a new, data-driven perspective through the SnipeCharts ecosystem.
 
+The project focuses on creating a comprehensive awareness and educational campaign that includes:
 
-ا1. Storyboard:
-حنفية العميل اتكسرت فجأة، والمية مليّت الأرض.
-بدأ يسأل صحابه والجيران عن سبّاك — كل واحد رشّح حد مختلف، وفي ناس قالت إن الحرفيين بيتأخروا أو بيغيبوا.
-واحد من صحابه قاله:
-جرّب تطبيق صنعة… هتلاقي فيه حرفيين كتير بتقييمات حقيقية.”
-لعميل فتح التطبيق → شاف أقرب سباك بتقييم عالي → جه في وقت قصير → حل المشكلة.
-بعدها العميل مبسوط وكتب تقييم ممتاز يساعد العملاء التانيين ياخدوا قرار أسرع.”
-.
+Building a strong brand identity (logo, colors, tone, and visual style).
+Producing visual content for social media (posts, carousels, videos, storytelling campaigns).
+Creating a free practical trading course to help traders analyze the market using real data and volume, not guesswork.
+Presenting the SnipeCharts Indicator, a free analytical tool that simplifies chart reading and helps users make data-based decisions.
+Building an active community for traders to share experiences, discuss analyses, and learn together in a transparent environment.
+This project transforms complex financial and analytical concepts into engaging, accessible visuals and narratives — empowering beginners to trade with confidence and awareness.
 
-مقابلات المستخدمين user interviews  
-جلسنا مع مجموعة من الأشخاص اللي واجهوا مشاكل في التعامل مع الحرفيين. سمعنا تجاربهم، وتعرّفنا على الألم الحقيقي
+👥 Team Members (Snipers)
+Mohamed Anwar – Team Leader & Founder
+Primary: Team coordination, marketing strategy, project direction, content planning, and GitHub.
+Secondary: Branding guidance, copywriting, presentation.
 
+Abdullah Mostafa – Social Media Manager
+Primary: Campaign management, social media strategy, and scheduling.
+Secondary: Analytics, content optimization, engagement tracking.
 
-بعد المقابلات، أنشأنا Persona 
-تمثل الجمهور الحقيقي
-وال Empathy map
+Mohamed Gamal – Video Editor
+Primary: Video production, reels editing, and motion storytelling.
+Secondary: Visual adaptation for ads and campaigns.
 
-ا
-بعد كده بدأنا نجمع الفيتشرز اللي توصلنا اليها لحد اللحظه دي وطلعنا اول
-تدفق للمستخدم User FLow
-الفلو بسيط وسريع لأنه أهم حاجة عند المستخدم "يوصل للحرفي أسرع".
+Rolan Sameh – Designer
+Primary: Visual design, brand identity, and creative layouts.
+Secondary: UI/UX refinement, social media visuals.
 
+Sondos Mahmoud – Content Writer
+Primary: Scriptwriting, post copywriting, and storytelling.
+Secondary: Research and blog-style content.
 
-نظام التصميم Design system
-عملنا Design System موحّد علشان: يثبّت هوية التطبيق , يساعد في سهولة الاستخدام , يبقى فيه تناسق في كل الشاشات
+Mohamed Farouk – Marketing Assistant
+Primary: Marketing coordination, support in design and content creation.
+Secondary: Campaign performance tracking.
 
- نمازج اوليه Wireframes
-رسمنا سكتشات بسيطة للشاشات الأساسية
+🗂️ Work Plan
+1. Research & Analysis
+Market and competitor research (trading tools, learning platforms).
+Target audience personas (beginner and intermediate traders).
+Pain points and behavior analysis.
+Moodboard and creative direction.
+2. Brand Identity
+Logo design and brand naming.
+Color palette and typography.
+Tone of voice and visual guidelines.
+3. Awareness Content
+Social media posts and carousels.
+Explainer and storytelling videos.
+Paid campaign visuals.
+Educational mini-series for awareness.
+4. Educational Components
+Free course on trading basics and market analysis.
+Data-driven indicator explanation and demo visuals.
+Short “How-To” videos for practical learning.
+5. Community Building
+Telegram/Discord trader community.
+Discussion topics, mentorship, and feedback sessions.
+Real user insights and success stories.
+6. Review & Finalization
+Internal review and refinements.
+Export and presentation setup.
+GitHub documentation and portfolio upload.
+👨‍🏫 Instructor
+Eng. Safyeldin
 
-تصميم الواجهه UI Design
- بدأنا نلوّن ونصمّم الشكل النهائي
-
- 
- النموذج التفاعلي Prototype
-عملنا بروتوتايب في Figma علشان نشوف التطبيق كأنه شغال بجد..
-
-
-اسم المدرب :Yasmin Ali
-ل
-لينك المشروع على فيجما
-                                                                                                          https://www.figma.com/design/0PNApsXLecPpIHx3qjIV2a/Final-Project-UI?node-id=228-2615&t=KhL1kbiFNlTAeDtK-0
-
-
+📂 Project Files
+Access all project files here:
+🔗 Google Drive Folder
 
 ⚖️ License
-All rights reserved © 2025 Ala Allah Team| San3a
+All rights reserved © 2025 Mohamed Anwar | SnipeCharts
+
+
