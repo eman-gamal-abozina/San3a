@@ -115,7 +115,7 @@ Instructor : Yasmin Ali
 
 You can find our project (San3a) in figma here
 
-https://www.figma.com/design/0PNApsXLecPpIHx3qjIV2a/Final-Project-UI?node-id=408-3247
+https://www.figma.com/proto/0PNApsXLecPpIHx3qjIV2a/Final-Project-UI?page-id=408%3A3247&node-id=449-7417&t=UjZiF7Ag2gg3MMpm-0&scaling=min-zoom&content-scaling=fixed
 
 License
 
