@@ -115,8 +115,7 @@ Instructor : Yasmin Ali
 
 You can find our project (San3a) in figma here
 
-
-https://www.figma.com/proto/i9jbroaO9r5BflGozAUN0Z/Dentistella?page-id=0%3A1&node-id=185-495&t=b3MgrpORNnRxkEmV-0&scaling=scale-down-width&content-scaling=fixed
+https://www.figma.com/design/0PNApsXLecPpIHx3qjIV2a/Final-Project-UI?node-id=408-3247
 
 License
 
